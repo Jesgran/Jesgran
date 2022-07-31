@@ -1,8 +1,6 @@
 <h1 align="center">Salve! sono Jesgran</h1>
 <h3 align="center">Un developer a tempo libero :D</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jesgran&label=Visual%20profilo&color=0e75b6&style=flat" alt="jesgran" /> </p>
-
 - 🔭 Sto lavorando sul [mio sito web!](Jesgran.its-a.dev)
 
 - 🌱 Sto imparando **HTML5**
