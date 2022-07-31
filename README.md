@@ -5,7 +5,7 @@
 
 - 🔭 Sto lavorando sul [mio sito web!](Jesgran.its-a.dev)
 
-- 🌱 Sto imparando **HTML**
+- 🌱 Sto imparando **HTML5**
 
 - 👯 Sto collaborando nella creazione di **GalliumMC**
 
@@ -13,7 +13,7 @@
 
 - 📫 La mia mail: **help@jesrgan.tk**
 
-- ⚡ Fun fact **ho imparato da solo**
+- ⚡ Fun fact **ho imparato da solo node.js per i bot di discord**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
