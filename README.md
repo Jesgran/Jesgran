@@ -5,11 +5,11 @@
 
 - 🌱 Sto imparando **HTML5**
 
-- 👯 Sto collaborando nella creazione di **GalliumMC**
+- 👯 Sto collaborando nella creazione di **LucyBot**
 
-- 🤝 Mod di tutte le piattaforme di [MrJake](https://dsc.gg/mrjake)
+- 🤝 Mod di tutte le piattaforme di [MrJake](https://dsc.gg/mrjake) , [AcquaBagnata](https://dsc.gg/acqua)
 
-- 📫 La mia mail: **help@jesrgan.tk**
+- 📫 La mia mail: **jesgran69@gmail.com**
 
 - ⚡ Fun fact **ho imparato da solo node.js per i bot di discord**
 
