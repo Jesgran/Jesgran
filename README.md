@@ -5,7 +5,7 @@
 
 - 🌱 Sto imparando **HTML5**
 
-- 👯 Sto collaborando nella creazione di **LucyBot**
+- 👯 Sto collaborando nella creazione di **PoldHub FNF**
 
 - 🤝 Mod di tutte le piattaforme di [MrJake](https://dsc.gg/mrjake) , [AcquaBagnata](https://dsc.gg/acqua)
 
