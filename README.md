@@ -7,7 +7,7 @@
 
 - 👯 Sto collaborando nella creazione di **PoldHub FNF**
 
-- 🤝 Mod di tutte le piattaforme di [MrJake](https://dsc.gg/mrjake) , [AcquaBagnata](https://dsc.gg/acqua)
+- 🤝 Mod di tutte le piattaforme di [MrJake](https://dsc.gg/mrjake)
 
 - 📫 La mia mail: **jesgran69@gmail.com**
 
