@@ -1,18 +1,6 @@
 <h1 align="center">Salve! sono Jesgran</h1>
 <h3 align="center">Un developer a tempo libero :D</h3>
 
-- 🔭 Sto lavorando sul [mio sito web!](Jesgran.its-a.dev)
-
-- 🌱 Sto imparando **HTML5**
-
-- 👯 Sto collaborando nella creazione di **PoldHub FNF**
-
-- 🤝 Mod di tutte le piattaforme di [MrJake](https://dsc.gg/mrjake)
-
-- 📫 La mia mail: **jesgran69@gmail.com**
-
-- ⚡ Fun fact **ho imparato da solo node.js per i bot di discord**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jesgran_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jesgran_" height="30" width="40" /></a>
