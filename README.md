@@ -21,10 +21,6 @@
 
 ###
 
-<p align="left">Hello World!!</p>
-
-###
-
 <h3 align="left">📚 Programming Languages</h3>
 
 ###
