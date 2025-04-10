@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://i.makeagif.com/media/9-03-2021/SOOluK.gif"  />
+ <a href="https://discord.com/users/436963335414480897"><img src="https://lanyard.cnrad.dev/api/436963335414480897?hideDecoration=true" /></a>
 </div>
 
 ###
