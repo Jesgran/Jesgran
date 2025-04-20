@@ -1,3 +1,5 @@
+<style> img { vertical-align: middle; } </style>
+
 <div align="center">
  <a href="https://discord.com/users/436963335414480897"><img src="https://lanyard.cnrad.dev/api/436963335414480897?hideDecoration=true" /></a>
 </div>
