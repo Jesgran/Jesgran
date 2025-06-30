@@ -46,6 +46,13 @@
 </div>
 
 ###
+<div align="center">
+  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12415&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=shadow_blue" height="160" alt="streak graph"  />
+<p>Just started timing give me some weeks [let's say months (maybe years)]</p>
+</div>
+
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Jesgran&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
